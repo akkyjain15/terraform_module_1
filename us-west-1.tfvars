@@ -1,0 +1,5 @@
+image_id      = "ami-0f6ded6fd335abde3"
+instance_type = "t2.micro"
+tag_name      = "Akshay"
+REGION        = "us-west-1"
+az            = "us-west-1a"
